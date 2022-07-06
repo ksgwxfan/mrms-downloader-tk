@@ -50,7 +50,7 @@ Product listings can be switched from MRMS to Radar (and vice-versa) via `Mode` 
     - The categorization is arbitrary. Nor does it originate from any official MRMS directory structures. It's offered as a focal assistant (though subjective one) to the user.
 3. Choose a Product
 4. Click `Refresh URL List`
-    - A host of individual products will list in the right-most frame. They will be in time-descending order (newest-to-oldest).
+    - A large list of files will appear in the right-most frame. They will be in time-descending order (newest-to-oldest).
 	- Products that have previously been downloaded will appear in green.
 5. Select from the URL/File list the items of interest
     - To select multiple items, you can mouse-drag over files and/or hold `CTRL` or `SHIFT` as you make selections.
