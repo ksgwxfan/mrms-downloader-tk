@@ -1,6 +1,9 @@
-## MRMS Downloader Tk v1.0
+## MRMS Downloader Tk v1.01
 
 MRMS Downloader Tk is a Python Tkinter Zipapp used for downloading (to have a local archive) MRMS (Multi-Radar Multi-Sensor Products (`.GRIB2`) and Level-II and Level-III radar products (`.tif`) found on the [MRMS Website](https://mrms.ncep.noaa.gov). The purpose is to streamline retrieval and archival of the data by enabling the rapid change between regions or radar types, categories or radar sites, and products, followed by listing the available files.
+
+### Changes in this version (v1.01)
+- Apparently there was an error in version 1 that prevented it from retrieving available urls. Well, the purpose of this release was to fix that.
 
 ### Contents
   - [Learning About Multi-Radar Multi-Sensor Products](#learning-about-multi-radar-multi-sensor-products)
