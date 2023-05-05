@@ -99,7 +99,7 @@ You'll need some other software for visualization of the files. Below are just a
 
 ### Copyright/License
 
-- &copy; 2021, Kyle S. Gentry
+- &copy; 2021-2023, Kyle S. Gentry
 - https://ksgwxfan.github.io
 - MIT License
 
